@@ -11,7 +11,7 @@
 
 This repository documents the setup and configuration of a full **LAMP stack** (Linux, Apache, MariaDB, PHP) on **CentOS 8** within a VMware virtual machine. It’s part of a broader professional development journey toward becoming a Red Hat Certified System Administrator (**RHCSA**) — grounded in real-world, reproducible, and auditable system design.
 
-> *This project is one piece of a larger portfolio demonstrating command-line fluency, Linux operations, and spiritual craftsmanship through tech.*
+> *This project is one piece of a larger portfolio demonstrating command-line fluency, Linux operations, and craftsmanship through tech.*
 
 ---
 
